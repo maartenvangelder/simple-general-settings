@@ -3,7 +3,7 @@ Contributors: maartenvg
 Tags: settings, tagline, blogname
 Requires at least: 3.0.0
 Tested up to: 3.3
-Stable tag: 0.1
+Stable tag: 0.2
 
 Make blogname and tagline editable for everyone. Not only the administrator anymore.
 
@@ -22,6 +22,9 @@ Make blogname and tagline editable for everyone. Not only the administrator anym
 Not available.
 
 == Changelog ==
+
+= 0.2 =
+* Changed version number
 
 = 0.1 =
 * Created the plugin
