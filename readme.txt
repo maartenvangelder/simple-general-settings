@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: maartenvg
-Tags: settings, tagline, blogname
+Tags: settings, tagline, blogname, admin, site title, title
 Requires at least: 3.0.0
 Tested up to: 3.3
-Stable tag: 0.2
+Stable tag: 0.3
 
 Make blogname and tagline editable for everyone. Not only the administrator anymore.
 
@@ -13,7 +13,7 @@ Make blogname and tagline editable for everyone. Not only the administrator anym
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the directory `simple-general-settings` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Edit the options under Setttings
 
@@ -22,6 +22,10 @@ Make blogname and tagline editable for everyone. Not only the administrator anym
 Not available.
 
 == Changelog ==
+
+= 0.3 =
+* Choose user level for changing settings
+* Better looking
 
 = 0.2 =
 * Changed version number
