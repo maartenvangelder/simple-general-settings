@@ -23,7 +23,7 @@ Not available.
 
 == Changelog ==
 
-= 0.4.3 =
+= 0.5 =
 * Removed plugin uri
 
 = 0.4.2 =
