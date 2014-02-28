@@ -23,9 +23,12 @@ Not available.
 
 == Changelog ==
 
+<<<<<<< HEAD
 = 0.5 =
 * Removed plugin uri
 
+=======
+>>>>>>> a8142f3e14a5e391c8f1fade869c23d7b730a96d
 = 0.4.2 =
 * Changed version number in plugin file
 
