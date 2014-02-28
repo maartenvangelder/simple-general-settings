@@ -1,10 +1,9 @@
 <?php 
 /*
 Plugin Name: Simple General Settings
-Plugin URI: http://www.maartenvangelder.net/wordpress-plugins/simple-general-settings/
 Description: Simple General Settings - Make some general settings editable for everyone
 Author: Maarten van Gelder
-Version: 0.4.2
+Version: 0.4.3
 Author URI: http://www.maartenvangelder.nl
 */
 
