@@ -3,14 +3,9 @@
 Plugin Name: Simple General Settings
 Description: Simple General Settings - Make some general settings editable for everyone
 Author: Maarten van Gelder
-<<<<<<< HEAD
-Version: 0.5
-=======
-Version: 0.4.2
->>>>>>> a8142f3e14a5e391c8f1fade869c23d7b730a96d
+Version: 0.5.1
 Author URI: http://www.maartenvangelder.nl
 */
-
 
 //*************** Admin function ***************
 function SimpleGeneralSettings_admin() {

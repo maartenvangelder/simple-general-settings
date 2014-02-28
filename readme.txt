@@ -3,7 +3,7 @@ Contributors: maartenvg
 Tags: settings, tagline, blogname, admin, site title, title
 Requires at least: 3.0.0
 Tested up to: 3.8.1
-Stable tag: 0.5
+Stable tag: 0.5.1
 
 Make blogname and tagline editable for everyone. Not only the administrator anymore.
 
@@ -23,12 +23,12 @@ Not available.
 
 == Changelog ==
 
-<<<<<<< HEAD
+= 0.5.1 =
+* Fix version number
+
 = 0.5 =
 * Removed plugin uri
 
-=======
->>>>>>> a8142f3e14a5e391c8f1fade869c23d7b730a96d
 = 0.4.2 =
 * Changed version number in plugin file
 
