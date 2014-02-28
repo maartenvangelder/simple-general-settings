@@ -23,6 +23,9 @@ Not available.
 
 == Changelog ==
 
+= 0.4.1 =
+* Changed version number in plugin file
+
 = 0.4 =
 * Changed version number
 
